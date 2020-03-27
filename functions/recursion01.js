@@ -9,4 +9,4 @@ function countDown(numero) {
   }
 }
 
-countDown(10);
+//countDown(10);
