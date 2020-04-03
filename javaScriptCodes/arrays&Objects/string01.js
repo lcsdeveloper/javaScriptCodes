@@ -8,3 +8,6 @@ console.log("    okay     ".trim());
 //using the padStart
 console.log(String(6).padStart(4,"0"));
 console.log(String(60).padStart(4,"0"));
+
+//returning the last indice of an array or string
+console.log("Lucas".length-1);
