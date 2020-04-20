@@ -7,4 +7,4 @@ const cats = [
 	'daisy'
 ];
 
-console.log(cats);
+console.log( cats );
