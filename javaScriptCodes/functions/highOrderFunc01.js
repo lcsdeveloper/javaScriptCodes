@@ -1,7 +1,7 @@
 function makeBetweenFunc (x,y){
     return function(num){
         return num >= x && num <= y;
-    }
+    };
 }
 
 const isChild = makeBetweenFunc(0,18);
