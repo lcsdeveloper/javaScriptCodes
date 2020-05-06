@@ -51,3 +51,7 @@ and some books as Eloquent Java Script 3 Edition and Java Script Grammar.
   * Rest 
   * Spread
 > This is a topic which I will come back in the future to understaning it better
+
+#### Destructuring
+  * Simple destructuring
+> this was a topic which I will study better once i get deeper to Objects
