@@ -32,3 +32,11 @@ and some books as Eloquent Java Script 3 Edition and Java Script Grammar.
   * Push / Pop
   * Shift / Unshift
   * IndexOf / LastIndexOf
+
+#### Functions
+  * Simple functions
+  * Arrow Functions
+  * Higher Order Functions
+  * Recursion
+  * CallBacks 
+  * Exercises
