@@ -17,3 +17,18 @@ and some books as Eloquent Java Script 3 Edition and Java Script Grammar.
   * While
   * Exercices
   > Soon I going to put do while codes 
+
+#### Arrays
+  * Simple arrays
+  * Map
+  * Value
+  * Every
+  * Filter
+  * ForEach
+  * Reduce
+  * Some
+  * Keys
+  * Slice
+  * Push / Pop
+  * Shift / Unshift
+  * IndexOf / LastIndexOf
