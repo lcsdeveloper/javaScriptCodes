@@ -40,3 +40,9 @@ and some books as Eloquent Java Script 3 Edition and Java Script Grammar.
   * Recursion
   * CallBacks 
   * Exercises
+
+#### Strings
+  * Simple strings
+  * Json
+  * Template Strtings
+  * HTML with Json
