@@ -16,7 +16,7 @@ and some books as Eloquent Java Script 3 Edition and Java Script Grammar.
   * For
   * While
   * Exercices
-  > Soon I going to put do while codes 
+  > Soon I going to put do while codes.
 
 #### Arrays
   * Simple arrays
@@ -50,8 +50,12 @@ and some books as Eloquent Java Script 3 Edition and Java Script Grammar.
 #### Rest and Spread
   * Rest 
   * Spread
-> This is a topic which I will come back in the future to understaning it better
+> This is a topic which I will come back in the future to understaning it better.
 
 #### Destructuring
   * Simple destructuring
-> this was a topic which I will study better once i get deeper to Objects
+> this was a topic which I will study better once i get deeper to Objects.
+
+#### Objects
+  * Simple objects
+> This is the next topic which I am going to Study.
