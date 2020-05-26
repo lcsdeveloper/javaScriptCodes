@@ -12,5 +12,5 @@ console.log(dog.name);
 console.log(dog.height);
 console.log(cat.name);
 console.log(cat.height);
-cat.makeSound()
+cat.makeSound();
 

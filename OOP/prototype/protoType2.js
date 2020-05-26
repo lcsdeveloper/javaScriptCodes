@@ -1,4 +1,10 @@
-function Human(name) {};
+let literal = {
+    prop: 123,
+    meth: function(){}
+};
 
-console.log(typeof Human.prototype); 
+let instance = new Object();
+instance.prop = 123;
+instance.meth = function(){};
 
+console.log(Array.prototype);
